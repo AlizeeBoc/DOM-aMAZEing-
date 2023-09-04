@@ -5,4 +5,3 @@ A simple Maze program :
 * Using keyboard events
 * Think of problems as algorithms
 
-<video src="Demo.mp4" width="320" height="240" controls></video>
