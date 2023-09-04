@@ -5,4 +5,6 @@ A simple Maze program :
 * Using keyboard events
 * Think of problems as algorithms
 
+<div style="text-align: center;">
 ![Demo](Demogif.gif)
+</div>
