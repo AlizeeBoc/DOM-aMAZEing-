@@ -5,5 +5,7 @@ A simple Maze program :
 * Using keyboard events
 * Think of problems as algorithms
 
+[Try me!](https://amazeing-maze.netlify.app/)
+
 ![Demo](Demogif.gif)
 
